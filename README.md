@@ -1,5 +1,5 @@
 # WiLI-Language-Identification
-This folder contains implementation of character Ngram Naive Bayes model for Language Identification.
+This repository contains implementation of character Ngram Naive Bayes model for Language Identification.
 
 
 ## Directory Structure
